@@ -8,7 +8,7 @@ public class MainActivity extends AppCompatActivity {
 
     TextView tes2;
 
-    TextView tes1;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
